@@ -4578,5 +4578,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492438&idx=1&sn=d5276e882c0ab5fc5de5486e0b7953c7": "漏洞预警 | DocsGPT远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492438&idx=2&sn=bdc617dc147d9923d545100a995157bd": "漏洞预警 | SeaCMS海洋影视管理系统SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492438&idx=3&sn=5c90f6d998b193e7b233bb72430988c0": "漏洞预警 | 竞优商业租赁管理系统信息泄露漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5MDgzOTk2Mg==&mid=2247484748&idx=1&sn=55f9031ae4f50734505f69dd5b863111": "【漏洞复现】 Ollama未授权访问漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MDgzOTk2Mg==&mid=2247484748&idx=1&sn=55f9031ae4f50734505f69dd5b863111": "【漏洞复现】 Ollama未授权访问漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247510936&idx=1&sn=900e317a8277593e850658cd395d3cc5&chksm=fa527e26cd25f73060aa8891de74b5a990928c7dbdf8f75a8e7e61a2d19bbece7666ceaacad2&scene=58&subscene=0": "Apache MINA CVE-2024-52046漏洞复现分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484341&idx=1&sn=a46a82777c2e17a48608a61876ca6b8b&chksm=c006cb45f77142533dcef205389e16dc8a4aaf4b85364271e1969a646bff7d10079056ee660b&scene=58&subscene=0": "应用安全不仅仅是漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497210&idx=1&sn=ccc4160591fb0b69fea00023035d6b2e&chksm=e8a5ff99dfd2768faeb837ce640c41bf2e04ff2a2b13bde9c0a3da1d8367b5bb5ffd05932884&scene=58&subscene=0": "【漏洞挖掘技巧】新手师傅从0到1如何挖洞"
 }
