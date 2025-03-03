@@ -4639,5 +4639,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzA5NzQ0Mjc5NA==&mid=2649766652&idx=1&sn=8c9b2486584f8df8ed6f847ee34004c8": "漏洞盒子2025赛季白帽联赛正式上线｜竞技升级，没你不行！",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247528200&idx=1&sn=8dedccef24a10c3745abfe081597d9db": "CVE-2025-21333：Windows Hyper-V 堆缓冲区溢出漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247484954&idx=1&sn=225adeba4f4a33c3761a65c4d21cbe84": "《DOM型XSS漏洞之AngularJS表达式触发》",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458590330&idx=3&sn=63381095f0059af2df76ade5d418daad": "Qilin 勒索软件团伙攻击 Lee Enterprises，泄露350GB数据"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458590330&idx=3&sn=63381095f0059af2df76ade5d418daad": "Qilin 勒索软件团伙攻击 Lee Enterprises，泄露350GB数据",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247519137&idx=1&sn=2c54f3235f9ba2b26a1dbf68355df8ad": "Tomcat CVE-2024-50379 条件竞争导致命令执行",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486125&idx=1&sn=d3e0fa770625edcd11411e137a03cded": "越权漏洞检测的工具 - PrivHunterAI"
 }
