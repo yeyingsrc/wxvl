@@ -4657,5 +4657,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNjU2NjY5MQ==&mid=2247510920&idx=1&sn=68ff5fe43012133226e1daf701d5e7c1": "2月安全厂商动态：DeepSeek相关产品密集发布",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTk5Mjc4Mg==&mid=2655223612&idx=1&sn=380d9d7b1d389fd1642b1150441fbcbb": "DeepSeek与DeepSearch应用",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247485467&idx=1&sn=dd3714d01e404a7db2b1766b7f74469b": "OAuth2.0原理及常见漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2OTU3MzI1OQ==&mid=2247485653&idx=1&sn=aecf33d95f2906d5808edaf112fe7e68": "秒懂安全真谛：DeepSeek引爆0day漏洞挖掘新纪元，谁与争锋！"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2OTU3MzI1OQ==&mid=2247485653&idx=1&sn=aecf33d95f2906d5808edaf112fe7e68": "秒懂安全真谛：DeepSeek引爆0day漏洞挖掘新纪元，谁与争锋！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507699&idx=1&sn=8685bbc4a7a5c3ab156290bdba31f839&chksm=cfcabde7f8bd34f109ac5cdbac70fafb57c5718aa87e116f36916bfdc6266974f17443de45d6&scene=58&subscene=0": "双倍奖金！X 春日漏洞悬赏计划启动！",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499044&idx=1&sn=b28ca172001ac4635fa12424bf8cf07b&chksm=fa5953c9cd2edadfa318d435c7461a368445f6f48c7b7650bfcf86f9c41a92fa47e7f0aa82b0&scene=58&subscene=0": "ViewState再现漏洞：行业内又一款知名的 .NET 分析工具爆出反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495812&idx=1&sn=c0ee1f33a40c40d4e6a1ea0e36184317&chksm=fd74c04dca03495b2a3b6e889deece16586475e3d80c74bd293e0956235e0002e363d4366a68&scene=58&subscene=0": "CNVD漏洞周报2025年第8期",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247523648&idx=2&sn=712933bee9e868e3b9dab6b00c71e68a": "勒索软件团伙利用Paragon分区管理程序漏洞实施BYOVD攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODg3NzExNw==&mid=2247488581&idx=1&sn=dede2d2cffd9c7394420be23cf6302c5": "记录某次APP漏洞挖掘案例",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODY3NDYxNA==&mid=2247485964&idx=1&sn=da9866d89574d3eda817c9d87ca298b3": "从手工到AI：DeepSeek如何革新0day漏洞挖掘？",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247519583&idx=1&sn=c115c67e1f6f5d1628a9e9ec07a64ef3": "逆向Java反序列化：从漏洞挖掘者的视角拆解CC1链的发现与构造",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247485730&idx=1&sn=3b92cfc02bda31d82194ca614002eb5d": "【高危漏洞】MongoDB Shell可能容易通过自动补全进行控制字符注入",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486302&idx=1&sn=ad61e79cbcb27bf96c0efa2eab66f75d": "基于大模型LLM的白盒RCE漏洞自动化挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247542225&idx=2&sn=244a465fab183f4fa91a284b92a920e6": "【风险】DeepSeek等大模型私有化服务器部署近九成在“裸奔”，已知漏洞赶紧处理！",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjM4NTg4OQ==&mid=2247499253&idx=1&sn=b414a152e60890e967bffe37e4d8f6a5": "利用卫星系统漏洞攻击船舶系统案例"
 }

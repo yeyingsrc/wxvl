@@ -1,5 +1,5 @@
 #  记录某次APP漏洞挖掘案例   
-原创 知名小朋友  进击安全   2025-02-06 01:01  
+ WK安全   2025-03-04 02:37  
   
  一、前言  
   
@@ -53,10 +53,4 @@
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/ZRKuxIKRyhWXa2bmh8exIyr6WJdykfO9wubm0NzwL71s8EOtMmNdkEKibBJCibSvbzhVgJliasgicz6pbT6vsiaCTibg/640?wx_fmt=png&from=appmsg "")  
   
 发送成功，表明签名正确，剩下的就是不停的变换时间戳进行发包，成功水到一个低危。  
-  
-三、完结  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRKuxIKRyhXhuxbCGecu4ibia3kSXD8ePQHrSvPSNtC7PmjzQwR88Hu0LpuXdQzamKBCPAXX82anLS8f0FF3LzzQ/640?wx_fmt=jpeg "")  
-  
-  
   
