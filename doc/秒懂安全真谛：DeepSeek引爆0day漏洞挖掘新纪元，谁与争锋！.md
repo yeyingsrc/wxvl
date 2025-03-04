@@ -1,5 +1,5 @@
 #  秒懂安全真谛：DeepSeek引爆0day漏洞挖掘新纪元，谁与争锋！   
-原创 RCS-TEAM 李彦亮  小白嘿课   2025-03-03 09:31  
+原创 RCS-TEAM 李彦亮  小白嘿课   2025-03-03 16:21  
   
 **引言**  
   
@@ -98,38 +98,49 @@
   
   
   
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/nUHbLcGPue5oWe7qr9LDxjcunBmq96uyqbXZUVoAcSg3onO2aTPDumWHAfNBVcvjvcNY342ZSs8icY7U98rVwCQ/640?wx_fmt=png&from=appmsg "")  
+  
   
   
   
 **核心优势**  
   
 - **效率飞跃**  
+  
 DeepSeek将0day漏洞的挖掘从传统“天级”耗时拉升到“分钟级”响应，效率飙升300%以上。  
   
 - **全方位覆盖**  
+  
 多模态分析技术让DeepSeek无死角锁定隐藏漏洞，突破传统方法的局限。  
   
 - **精准无误**  
+  
 低至3%的误报率大幅降低了工程师的验证成本，极大提升了工作效率。  
   
 - **智能预测**  
+  
 AI推理能力支持快速发现、验证未知零日漏洞，为安全防护增添新武器。  
   
 - **实时攻防演练**  
+  
 数秒内生成复杂攻击链，为企业提供实时、动态的防御策略。  
   
 - **经济高效**  
+  
 降低训练及部署成本，尤其适合中小企业的安全防护升级。  
   
 **未来展望**  
   
 - **效率跨越**  
+  
 AI推理将推动0day漏洞挖掘进入“分钟时代”，实现全新突破。  
   
 - **成本重构**  
+  
 低成本高效能使企业安全防护不再是奢望。  
   
 - **攻防新格局**  
+  
 AIAgent的自我对抗训练将引领攻防新纪元，正如Gartner预测：到2027年，70%的红队行动将由AI主导。  
   
 **典型应用案例**  
@@ -195,5 +206,11 @@ HAPPY CHINESE NEW YEAR
   
   
 [揭秘Android RAT程序：权限滥用与案例分析](https://mp.weixin.qq.com/s?__biz=Mzg2OTU3MzI1OQ==&mid=2247485515&idx=1&sn=af8b4b349e5b0fc56e39fc7442f9d4b9&scene=21#wechat_redirect)  
+  
+  
+[基于大模型在流量分析领域应用的实践(二)](https://mp.weixin.qq.com/s?__biz=Mzg2OTU3MzI1OQ==&mid=2247485466&idx=1&sn=adc7d271853e4d43a8e3604b0989efe3&scene=21#wechat_redirect)  
+  
+  
+[基于大模型在流量分析领域应用的实践(一)](https://mp.weixin.qq.com/s?__biz=Mzg2OTU3MzI1OQ==&mid=2247485456&idx=1&sn=c568a90b04587c4e5cbd043578a11061&scene=21#wechat_redirect)  
   
   
