@@ -4668,5 +4668,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247485730&idx=1&sn=3b92cfc02bda31d82194ca614002eb5d": "【高危漏洞】MongoDB Shell可能容易通过自动补全进行控制字符注入",
     "https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486302&idx=1&sn=ad61e79cbcb27bf96c0efa2eab66f75d": "基于大模型LLM的白盒RCE漏洞自动化挖掘",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247542225&idx=2&sn=244a465fab183f4fa91a284b92a920e6": "【风险】DeepSeek等大模型私有化服务器部署近九成在“裸奔”，已知漏洞赶紧处理！",
-    "https://mp.weixin.qq.com/s?__biz=MzkwNjM4NTg4OQ==&mid=2247499253&idx=1&sn=b414a152e60890e967bffe37e4d8f6a5": "利用卫星系统漏洞攻击船舶系统案例"
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjM4NTg4OQ==&mid=2247499253&idx=1&sn=b414a152e60890e967bffe37e4d8f6a5": "利用卫星系统漏洞攻击船舶系统案例",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788145&idx=1&sn=0f1a20f6a89c77dc027a3479ca3bfbaf&chksm=8893be9ebfe43788a04621c079caea12bf248a00372c0231aa1126095d0398806a01db2ad9c3&scene=58&subscene=0": "攻击链揭露：间谍软件利用零日漏洞攻破安卓手机锁屏",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495812&idx=2&sn=b080544563672f0f09d01e1fcf6684c9&chksm=fd74c04dca03495bb0367a73ea7853e0a5b5c15b56384e4f76506483fb7fc9a47c873ca01228&scene=58&subscene=0": "上周关注度较高的产品安全漏洞(20250224-20250302)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487377&idx=1&sn=f07e431efd7b611de9f70b46952ccbf0": "Ollama大模型工具安全吗？深度解析潜在漏洞与防护指南",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489134&idx=1&sn=2e659c636e8120f76a4ef570fe0bf9a4": "NAKIVO Backup 前台任意文件读取漏洞分析【CVE-2024-48248】",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247548480&idx=1&sn=23d8f6cedd3e0c31d638db401bdc8e03": "漏洞挖掘实战 | 考试系统越权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTMyOTg4NQ==&mid=2247484137&idx=1&sn=08f5e9d7331080559b0f8d23bdf063ff": "dingfanzu最新SQL注入漏洞（CNVD-2025-02106、CVE-2025-22976）"
 }
