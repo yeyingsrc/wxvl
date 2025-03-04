@@ -4675,5 +4675,22 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489134&idx=1&sn=2e659c636e8120f76a4ef570fe0bf9a4": "NAKIVO Backup 前台任意文件读取漏洞分析【CVE-2024-48248】",
     "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247548480&idx=1&sn=23d8f6cedd3e0c31d638db401bdc8e03": "漏洞挖掘实战 | 考试系统越权漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxMTMyOTg4NQ==&mid=2247484137&idx=1&sn=08f5e9d7331080559b0f8d23bdf063ff": "dingfanzu最新SQL注入漏洞（CNVD-2025-02106、CVE-2025-22976）",
-    "https://mp.weixin.qq.com/s/8qtXYsJNcNR5K6qrGFD_Qg": "2025-2月Solar应急响应公益月赛排名及官方题解"
+    "https://mp.weixin.qq.com/s/8qtXYsJNcNR5K6qrGFD_Qg": "2025-2月Solar应急响应公益月赛排名及官方题解",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664237662&idx=2&sn=2deff5b6bd62f8dd20a62eb3510d400f&chksm=8b5808a7bc2f81b17f418934d36c8b8136e6d4feffde7376fd5ef51fa52d2c4615e6bd01a178&scene=58&subscene=0": "CNNVD | 关于Ollama安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652068262&idx=1&sn=78dbf5467c924dcc1d55c9dbf6f78eca": "【安全圈】WordPress 第三方表单插件 Everest Forms 曝远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652068262&idx=2&sn=4cf1db2edf35935c09365a77e168187e": "【安全圈】苹果 macOS 虚拟机应用 Parallels Desktop 曝漏洞未修补完全",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNjYwMTMyNQ==&mid=2247492987&idx=1&sn=3719959e4102ccd48af2d1083637b073": "《2024网络安全投融资年鉴》最具价值10项洞察",
+    "https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247501364&idx=1&sn=086338f5631ba5b9edbfad56351ced61": "ECDSA 签名中的私钥泄露：elliptic 库畸形输入漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODk0ODM5Nw==&mid=2650330783&idx=1&sn=ebf1308794b4dbe6f4cf704dccd2dab5": "中新云化数据安全服务平台在渝揭牌",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651135353&idx=1&sn=eb05a450f5afe4bed0ad4fdf164d822b": "CISA漏洞目录竟成勒索攻击“灵感”？28%漏洞被利用；新型网络钓鱼活动滥用微软SharePoint部署Havoc后门 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247484960&idx=1&sn=80f25daf5297dd8551c70f6a26c094be": "《DOM型XSS漏洞之postMessage触发》",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NzQxNzY2OQ==&mid=2247488668&idx=1&sn=7407f11d388652275e6abfb8d860fce4": "终于好了 | 用时一周写写调调，终于完结出了初步令我满意的漏洞和报告知识文库",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247554046&idx=1&sn=7627c061b256313cd04dd97110416f41": "花式漏洞利用，一键接管目标机器",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522399&idx=1&sn=f2a16f697c5c7d7824f2f78d5b4b6148": "CISA 提醒注意已遭利用的 Windows 和思科漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNTYwOTU1Mw==&mid=2650092935&idx=1&sn=ffe0b65032eb0a7fc6c149ae9041435d": "大模型微调爆出致命漏洞：可导致模型“黑化”",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTA0MzgxNQ==&mid=2247489959&idx=1&sn=2949b24fbb35416646a65776f03a23a3": "『漏洞复现』pgAdmin4 < 8.3 (CVE-2024-2044) 反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503334&idx=1&sn=c4e505bf12eabcf1f82af6e83b7b56a9": "雷神众测漏洞周报2025.2.24-2024.3.2",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651462658&idx=1&sn=16139a12a79e7b40fd3834da9eaa3c5c": "信息安全漏洞月报（2025年2月）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487016&idx=1&sn=2e54fafefdfe86ddaedd7dad16058baf": "漏洞预警 | OLLAMA 存在未授权访问漏洞（CNVD-2025-04094）",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513878&idx=2&sn=0e184b9557861d3c7399fdffd76bd147": "CNCERT：关于Ollama存在未授权访问漏洞的安全公告"
 }
